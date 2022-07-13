@@ -5,52 +5,16 @@
   weight = 10
 
 [[wiki]]
-  name = "onboardging"
+  name = "Onboardging"
   weight = 10
-  identifier = "prologue"
-  url = "/wiki/prologue/"
+  identifier = "onboarding"
+  url = "/wiki/onboarding/"
 
 [[wiki]]
   name = "Help"
   weight = 60
   identifier = "help"
   url = "/wiki/help/"
-
-# [[docs]]
-#   name = "Lorem"
-#   weight = 70
-#   identifier = "lorem"
-#   url = "/docs/lorem/"
-
-# [[main]]
-#   name = "Tutorial"
-#   url = "/tutorial/lorem/ipsum/"
-#   weight = 15
-
-# [[main]]
-#   name = "Blog"
-#   url = "/blog/"
-#   weight = 20
-
-# [[main]]
-#   name = "Get Started"
-#   weight = 30
-#   identifier = "get-started"
-#   url = "/docs/prologue/introduction/"
-
-# [[main]]
-#   name = "Quick Start"
-#   weight = 40
-#   identifier = "quick-start"
-#   url = "/docs/prologue/quick-start/"
-#   parent = "get-started"
-
-# [[main]]
-#   name = "Tutorial"
-#   weight = 50
-#   identifier = "tutorial"
-#   url = "https://getdoks.org/tutorial/introduction/"
-#   parent = "get-started"
 
 [[social]]
   name = "GitHub"
@@ -81,3 +45,39 @@
 #   weight = 10
 #   identifier = "lorem"
 #   url = "/tutorial/lorem/"
+
+# [[wiki]]
+#   name = "Lorem"
+#   weight = 70
+#   identifier = "lorem"
+#   url = "/wiki/lorem/"
+
+# [[main]]
+#   name = "Tutorial"
+#   url = "/tutorial/lorem/ipsum/"
+#   weight = 15
+
+# [[main]]
+#   name = "Blog"
+#   url = "/blog/"
+#   weight = 20
+
+# [[main]]
+#   name = "Get Started"
+#   weight = 30
+#   identifier = "get-started"
+#   url = "/docs/prologue/introduction/"
+
+# [[main]]
+#   name = "Quick Start"
+#   weight = 40
+#   identifier = "quick-start"
+#   url = "/docs/prologue/quick-start/"
+#   parent = "get-started"
+
+# [[main]]
+#   name = "Tutorial"
+#   weight = 50
+#   identifier = "tutorial"
+#   url = "https://getdoks.org/tutorial/introduction/"
+#   parent = "get-started"
