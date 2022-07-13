@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://doks-child-theme.netlify.app/sitemap.xml
+Sitemap: https://pedersen-fisheries-lab.github.io/pedersen-lab-wiki/sitemap.xml
