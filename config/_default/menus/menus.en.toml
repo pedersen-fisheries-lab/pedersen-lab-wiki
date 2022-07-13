@@ -1,38 +1,26 @@
-[[docs]]
-  name = "Prologue"
+[[main]]
+  name = "Wiki"
+  url = "/wiki/onboarding/introduction/"
+# url = "/docs/1.0/prologue/introduction/"
+  weight = 10
+
+[[wiki]]
+  name = "onboardging"
   weight = 10
   identifier = "prologue"
-  url = "/docs/prologue/"
+  url = "/wiki/prologue/"
 
-[[docs]]
+[[wiki]]
   name = "Help"
   weight = 60
   identifier = "help"
-  url = "/docs/help/"
+  url = "/wiki/help/"
 
 # [[docs]]
 #   name = "Lorem"
 #   weight = 70
 #   identifier = "lorem"
 #   url = "/docs/lorem/"
-
-[[guide]]
-  name = "Lorem"
-  weight = 10
-  identifier = "lorem"
-  url = "/guide/lorem/"
-
-[[tutorial]]
-  name = "Lorem"
-  weight = 10
-  identifier = "lorem"
-  url = "/tutorial/lorem/"
-
-[[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
-  weight = 10
 
 # [[main]]
 #   name = "Tutorial"
@@ -81,3 +69,15 @@
 #   name = "Privacy"
 #   url = "/privacy-policy/"
 #   weight = 10
+
+# [[guide]]
+#   name = "Lorem"
+#   weight = 10
+#   identifier = "lorem"
+#   url = "/guide/lorem/"
+
+# [[tutorial]]
+#   name = "Lorem"
+#   weight = 10
+#   identifier = "lorem"
+#   url = "/tutorial/lorem/"
