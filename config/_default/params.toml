@@ -35,7 +35,7 @@ schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/ericjpedersen"
-schemaLinkedIn = ""
+# schemaLinkedIn = ""
 schemaGitHub = "https://github.com/pedersen-fisheries-lab"
 schemaSection = "blog"
 
