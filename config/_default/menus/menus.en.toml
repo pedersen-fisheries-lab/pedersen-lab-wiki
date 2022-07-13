@@ -5,7 +5,7 @@
   weight = 10
 
 [[docs]]
-  name = "Onboardging"
+  name = "Onboarding"
   weight = 10
   identifier = "onboarding"
   url = "/docs/onboarding/"
