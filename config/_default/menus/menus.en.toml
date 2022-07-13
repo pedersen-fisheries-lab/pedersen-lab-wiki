@@ -1,20 +1,20 @@
 [[main]]
   name = "Wiki"
-  url = "/wiki/onboarding/introduction/"
+  url = "/docs/onboarding/introduction/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
-[[wiki]]
+[[docs]]
   name = "Onboardging"
   weight = 10
   identifier = "onboarding"
-  url = "/wiki/onboarding/"
+  url = "/docs/onboarding/"
 
-[[wiki]]
+[[docs]]
   name = "Help"
   weight = 60
   identifier = "help"
-  url = "/wiki/help/"
+  url = "/docs/help/"
 
 [[social]]
   name = "GitHub"
