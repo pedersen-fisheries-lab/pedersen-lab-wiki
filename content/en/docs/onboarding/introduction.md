@@ -17,7 +17,7 @@ This is the introduction to the wiki, to be updated.
 
 ### Notes
 
-This shows how to write an "alert"
+This shows how to write an "alert".
 
 {{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." />}}
 
