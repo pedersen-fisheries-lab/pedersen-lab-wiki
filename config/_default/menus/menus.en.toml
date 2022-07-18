@@ -11,6 +11,12 @@
   weight = 10
   identifier = "onboarding"
   url = "/docs/onboarding/"
+  
+[[docs]]
+  name = "Resources"
+  weight = 20
+  identifier = "resources"
+  url = "/docs/resources/"
 
 [[docs]]
   name = "Doks Help"
