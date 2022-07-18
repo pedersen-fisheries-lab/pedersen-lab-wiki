@@ -4,6 +4,8 @@
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
+# ------------------------------------------------------------------------------
+
 [[docs]]
   name = "Onboarding"
   weight = 10
@@ -15,6 +17,8 @@
   weight = 60
   identifier = "help"
   url = "/docs/help/"
+
+# ------------------------------------------------------------------------------
 
 [[social]]
   name = "GitHub"
