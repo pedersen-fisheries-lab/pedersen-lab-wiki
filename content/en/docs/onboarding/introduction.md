@@ -23,6 +23,11 @@ This shows how to write an "alert".
 
 Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
 
+#### New Sub section 
+
+Performance anexiety :) 
+Me too sis!
+
 ## Help
 
 Get help on Doks. [Help →]({{< relref "how-to-update" >}})
