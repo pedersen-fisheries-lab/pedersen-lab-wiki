@@ -19,6 +19,12 @@
   url = "/docs/resources/"
 
 [[docs]]
+  name = "Wiki Help"
+  weight = 50
+  identifier = "wikihelp"
+  url = "/docs/wikihelp/"
+
+[[docs]]
   name = "Doks Help"
   weight = 60
   identifier = "help"
