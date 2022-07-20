@@ -22,7 +22,6 @@ Using Rstudio Server combined with git is a powerful way to streamline your work
 
 1.  Login to the server locally or via SSH
 2.  Run the following code:
-3.  Finishes
 
 ```console
 #### 1. Get Rstudio Docker ID ####
@@ -50,4 +49,4 @@ chown ${my_user}:${my_user} /home/${my_user}
 exit
 ```
 
-1.  Finished
+3.  Finished
