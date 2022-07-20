@@ -10,6 +10,7 @@ toc: true
 ---
 
 ### Getting started with Rstudio in the cloud ☁️💻
+
 RStudio Server enables you to provide a browser based interface to a version of R running on a remote Linux server.
 This allows you to work on complexe datasets/models without the worries of your computers own ressources.
 
