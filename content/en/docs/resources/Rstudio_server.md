@@ -48,4 +48,3 @@ chown ${my_user}:${my_user} /home/${my_user}
 #### 7. Close the shell ####
 exit
 ```
-
