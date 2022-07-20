@@ -20,8 +20,8 @@ Using Rstudio Server combined with git is a powerful way to streamline your work
 
 #### Setting up a user (Admins only)
 
-1.  Login to the server locally or via SSH
-2.  Run the following code:
+1. Login to the server locally or via SSH
+2. Run the following code:
 
 ```console
 #### 1. Get Rstudio Docker ID ####
