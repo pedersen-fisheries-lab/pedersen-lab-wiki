@@ -1,8 +1,8 @@
-[[main]]
-  name = "Wiki"
-  url = "/docs/onboarding/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
-  weight = 10
+# [[main]]
+#   name = "Wiki"
+#   url = "/docs/onboarding/introduction/"
+# # url = "/docs/1.0/prologue/introduction/"
+#   weight = 10
 
 # ------------------------------------------------------------------------------
 
