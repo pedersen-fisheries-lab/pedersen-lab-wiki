@@ -49,4 +49,3 @@ chown ${my_user}:${my_user} /home/${my_user}
 exit
 ```
 
-3.  Finished
