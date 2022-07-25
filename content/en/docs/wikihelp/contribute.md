@@ -11,4 +11,10 @@ weight: 610
 toc: true
 ---
 
-TBC
+### Rules for contributings
+
+### Creating a subsection
+
+### Creating a section
+
+### Things to look out for
