@@ -18,7 +18,7 @@ Using Rstudio in the cloud also allows you to save your work in a safe environme
 
 Using Rstudio Server combined with git is a powerful way to streamline your work and test compute intensive methods before deplying to a High Performance Computing service such as [Compute Canada](https://ccdb.computecanada.ca/security/login)
 
-### Getting started 
+### Getting started
 
 To get started, kindly email Eric so that an account can be started for you.
 
@@ -30,7 +30,7 @@ Head over to : http://10.203.131.88:8888/ and log in with your personal details.
 
 There are 2 ways of getting code and data on the server. For your code I recommend setting up GitHub and pulling your project (see below).
 
-OR 
+OR
 
 Alternatively, you can zip your scripts and data (within a single zip file) and use the upload function found in the Files/Plots/Packages/Help/Viewer section.
 ![upload button](https://community-cdn.rstudio.com/uploads/default/original/2X/9/91a128299a9d910f84279be9ecd89b60aa15f20b.png)
