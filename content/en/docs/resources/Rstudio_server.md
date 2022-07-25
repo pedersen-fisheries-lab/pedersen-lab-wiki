@@ -12,7 +12,7 @@ toc: true
 
 ### Getting started with Rstudio in the cloud ☁️💻
 
-RStudio Server enables you to provide a browser based interface to a version of R running on a remote Linux server.  
+RStudio Server enables you to provide a browser based interface to a version of R running on a remote Linux server.
 This allows you to work on complexe datasets/models without the worries of your computers own ressources.
 
 Using Rstudio in the cloud also allows you to save your work in a safe environment without the worries of your laptop battery dying or your hard drive crashing.
@@ -29,7 +29,7 @@ Head over to : http://10.203.131.88:8888/ and log in with your personal details.
 
 ### Uploading your scripts
 
-There are 2 ways of getting code and data on the server. For your code I recommend setting up GitHub and pulling your project (see below). 
+There are 2 ways of getting code and data on the server. For your code I recommend setting up GitHub and pulling your project (see below).
 
 OR 
 
@@ -40,7 +40,7 @@ Then select the directory where you want your files to be transferred to and the
 
 ### Using resources
 
-The server has a certain number of cores reserved for Rstudio instances. However, the memory is shared with all the users. Please be careful when running memory-intensive scripts. 
+The server has a certain number of cores reserved for Rstudio instances. However, the memory is shared with all the users. Please be careful when running memory-intensive scripts.
 
 Currently, the server has :
 10 CPU Cores
