@@ -28,12 +28,12 @@ menu:
 weight: 100 &lt;!-- The weight in the sidebar (controls placement) --&gt;
 toc: true &lt;!-- Whether to show the table of contents--&gt;
 ---
-</code></pre><h3 id=creating-a-section-new-folder-and-new-page>Creating a section (new folder and new page) <a href=#creating-a-section-new-folder-and-new-page class=anchor aria-hidden=true>#</a></h3><p>There are three steps for creating a new section:</p><ol><li><p>Create a folder named for the new section within <code>content/en/docs/</code>. The name of that folder will be used in what follows as <code>folder-name</code>.</p></li><li><p>Edit the <a href=https://github.com/pedersen-fisheries-lab/pedersen-lab-wiki/blob/main/config/_default/menus/menus.en.toml>menu file</a> by adding a <code>[[docs]]</code> entry of the type:</p></li></ol><pre><code class=language-markdown>[[docs]]
+</code></pre><h3 id=creating-a-section-new-folder-and-new-page>Creating a section (new folder and new page) <a href=#creating-a-section-new-folder-and-new-page class=anchor aria-hidden=true>#</a></h3><p>There are three steps for creating a new section:</p><ul><li><p>Create a folder named for the new section within <code>content/en/docs/</code>. The name of that folder will be used in what follows as <code>folder-name</code>.</p></li><li><p>Edit the <a href=https://github.com/pedersen-fisheries-lab/pedersen-lab-wiki/blob/main/config/_default/menus/menus.en.toml>menu file</a> by adding a <code>[[docs]]</code> entry of the type:</p></li></ul><pre><code class=language-markdown>[[docs]]
   name = &quot;Resources&quot; &lt;!-- The name of the section --&gt;
   weight = &lt;!-- The weight in the sidebar (controls placement) --&gt;
   identifier = &quot;folder-name&quot; &lt;!-- The name of the folder you created --&gt;
   url = &quot;/docs/folder-name/&quot; &lt;!-- The path to the folder within content/en/ --&gt;
-</code></pre><ol><li>Create an index file. This file must be named <code>_index.md</code> and be placed within the folder your created (<code>folder-name</code>). It must contain the following header but must remain empty of other content:</li></ol><pre><code class=language-markdown>---
+</code></pre><ul><li>Create an index file. This file must be named <code>_index.md</code> and be placed within the folder your created (<code>folder-name</code>). It must contain the following header but must remain empty of other content:</li></ul><pre><code class=language-markdown>---
 title : &quot;Resources&quot; &lt;!-- The name of the section --&gt;
 description: &quot;Lab resources&quot; &lt;!-- The description of the section --&gt;
 draft: false &lt;!-- Whether this is a draft section, leave as false --&gt;
