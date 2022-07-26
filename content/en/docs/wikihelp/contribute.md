@@ -62,7 +62,7 @@ There are three steps for creating a new section:
   url = "/docs/folder-name/" <!-- The path to the folder within content/en/ -->
 ```
 
-1. Create an index file. This file must be named `_index.md` and be placed within the folder your created (`folder-name`). It must contain the following header but must remain empty of other content:
+3. Create an index file. This file must be named `_index.md` and be placed within the folder your created (`folder-name`). It must contain the following header but must remain empty of other content:
 
 ```markdown
 ---
