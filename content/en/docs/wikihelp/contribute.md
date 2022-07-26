@@ -17,7 +17,8 @@ Before starting your contributions, ask yourself the following questions:
 
 1. Is there already an existing page for the topic you have in mind? If so, make sure you review this page and consider contributing to it before creating a new page.
 2. If you need to create a new page, is there an existing section in which this new page could already fit? if so, consider adding it to that section before creating a new section.
-3. You think you need to create a new section? Submit an issue on GitHub before doing to open the discussion on that topic.
+3. You think you need to create a new section? Submit an issue on GitHub beforehand to open the discussion on that topic.
+4. **Be careful to contribute on a separate branch than main. Open a PR for review to merge your contributions into main.**
 
 ### Contributing to an existing page
 
@@ -47,4 +48,34 @@ toc: true <!-- Whether to show the table of contents-->
 
 ### Creating a section (new folder and new page)
 
+There are three steps for creating a new section:
+
+1. Create a folder named for the new section within `content/en/docs/`. The name of that folder will be used in what follows as `folder-name`.
+
+2. Edit the [menu file](https://github.com/pedersen-fisheries-lab/pedersen-lab-wiki/blob/main/config/_default/menus/menus.en.toml) by adding a `[[docs]]` entry of the type:
+
+```markdown
+[[docs]]
+  name = "Resources" <!-- The name of the section -->
+  weight = <!-- The weight in the sidebar (controls placement) -->
+  identifier = "folder-name" <!-- The name of the folder you created -->
+  url = "/docs/folder-name/" <!-- The path to the folder within content/en/ -->
+```
+
+3. Create an index file. This file must be named `_index.md` and be placed within the folder your created (`folder-name`). It must contain the following header but must remain empty of other content:
+
+```markdown
+---
+title : "Resources" <!-- The name of the section -->
+description: "Lab resources" <!-- The description of the section -->
+draft: false <!-- Whether this is a draft section, leave as false -->
+images: [] <!-- Leave blank -->
+weight: 100 <!-- The weight in the sidebar (controls placement) -->
+---
+```
+
+Once you have created a section, you can refer to the previous paragrapphs to create the first new page of that section.
+
 ### Things to look out for
+
+- If you create a new section or page, you might have to play with the weigth values in order to get the placement you desire.
