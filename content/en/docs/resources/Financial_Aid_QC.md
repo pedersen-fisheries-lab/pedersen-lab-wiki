@@ -32,4 +32,4 @@ Before you apply, make sure you have the following information on hand:
 
 To access your file, click on [Online Services](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.quebec.ca%2Fen%2Feducation%2Fstudent-financial-assistance%2Fonline-services&data=05%7C01%7C%7Ce0445555893b4a8ceaad08da39ddd6f6%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637885922214869321%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=s%2F4z1jioJK4z%2F6pc%2BNkVNQwOpTgysauFCCHN1L79PsA%3D&reserved=0). Fill out the Identification section and click on the Full-time or Part-time forms, as applicable.
 
-Any questions? Don’t hesitate to reach out to us at [fundingyoureducation@concordia.ca](mailto:fundingyoureducation@concordia.ca).
+Any questions? Don’t hesitate to reach out to [fundingyoureducation@concordia.ca](mailto:fundingyoureducation@concordia.ca).
