@@ -18,8 +18,8 @@ toc: true
 * NSERC USRA - [**N**atural **S**ciences and **E**ngineering **R**esearch **C**ouncil of **C**anada - **U**ndergraduate **S**tudent **R**esearch **A**wards](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp)
 * Concordia USRA - [**C**oncordia **U**ndergraduate **S**tudent **R**esearch **A**wards](https://www.concordia.ca/research/students-and-postdocs/undergraduate-opportunities/cusra.html)
 
-These grants give you full-time funding to work with a professor to conduct research. 
-Deadlines are January/February of each year and eligibility is based almost entirely on GPA. 
+These grants give you full-time funding to work with a professor to conduct research.
+Deadlines are January/February of each year and eligibility is based almost entirely on GPA.
 The NSERC one pays more but is more competitive.
 
 ##### Other Grants
@@ -34,7 +34,6 @@ Concordia's financial aid & awards grant webpage. It might be a little hard to f
 
 #### BIOL 490
 
-This is a year long course that satisfies the thesis requirement for honours students. 
+This is a year long course that satisfies the thesis requirement for honours students.
 It involves working with a professor to design and carry out an independent research project.
-This is a great opportunity to conduct research that interests you while gaining experience and credit. 
-
+This is a great opportunity to conduct research that interests you while gaining experience and credit.
