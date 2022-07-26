@@ -24,15 +24,15 @@ Before starting your contributions, ask yourself the following questions:
 To contribute to an existing page you have two options:
 
 1. *Recommended:* Edit the file directly on Github. On the wiki, you can navigate to the page you wish to edit, scroll to the bottom and click on "edit this file on GitHub". This will bring you the location of the file on GitHub and allow you to edit the file directly. If you have a lot of edits to contribute, we recommend your work out your content outside of the GitHub editor (for example you can use a markdown editor like [StackEdit](http://stackedit.io/)).
-2. Fork the repository, edit in your fork and submit a pull request to the main repo. To learn more about forks, see the [GitHub help on that topic]().
+2. Fork the repository, edit in your fork and submit a pull request to the main repo. To learn more about forks, see the [GitHub help on that topic](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
 ### Creating a subsection (new page)
 
 Creating a new page requires creating a new file. The easiest way to do so is to go on GitHub, navigate to the folder [`content/en/docs`](https://github.com/pedersen-fisheries-lab/pedersen-lab-wiki/tree/main/content/en/docs), and select the folder that corresponds to the section you want to add a page into (for example, `resources`). You can then click the button "add file => create new file".
 
-Each new page requires a special header (see below). 
+Each new page requires a special header (see below).
 
-```
+```markdown
 ---
 title: "New Page Title" <!-- The title of the page -->
 draft: false <!-- Whether this is a draft page, leave as false -->
@@ -46,7 +46,5 @@ toc: true <!-- Whether to show the table of contents-->
 ```
 
 ### Creating a section (new folder and new page)
-
-
 
 ### Things to look out for
