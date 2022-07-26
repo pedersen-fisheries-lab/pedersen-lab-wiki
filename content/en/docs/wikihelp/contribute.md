@@ -51,7 +51,9 @@ toc: true <!-- Whether to show the table of contents-->
 There are three steps for creating a new section:
 
 1. Create a folder named for the new section within `content/en/docs/`. The name of that folder will be used in what follows as `folder-name`.
+
 2. Edit the [menu file](https://github.com/pedersen-fisheries-lab/pedersen-lab-wiki/blob/main/config/_default/menus/menus.en.toml) by adding a `[[docs]]` entry of the type:
+
 ```markdown
 [[docs]]
   name = "Resources" <!-- The name of the section -->
@@ -59,7 +61,9 @@ There are three steps for creating a new section:
   identifier = "folder-name" <!-- The name of the folder you created -->
   url = "/docs/folder-name/" <!-- The path to the folder within content/en/ -->
 ```
-3. Create an index file. This file must be named `_index.md` and be placed within the folder your created (`folder-name`). It must contain the following header but must remain empty of other content:
+
+1. Create an index file. This file must be named `_index.md` and be placed within the folder your created (`folder-name`). It must contain the following header but must remain empty of other content:
+
 ```markdown
 ---
 title : "Resources" <!-- The name of the section -->
