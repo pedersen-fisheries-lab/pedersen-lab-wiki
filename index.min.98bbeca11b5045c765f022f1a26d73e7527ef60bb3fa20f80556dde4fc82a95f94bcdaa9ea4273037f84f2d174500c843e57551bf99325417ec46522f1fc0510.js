@@ -20,6 +20,7 @@ Using Rstudio in the cloud also allows you to save your work in a safe environme
 Using Rstudio in the cloud also allows you to save your work in a safe environment without the worries of your laptop battery dying or your hard drive crashing.
 Using Rstudio Server combined with git is a powerful way to streamline your work and test compute intensive methods before deplying to a High Performance Computing service such as Compute Canada
 Getting started #To get started, kindly email Eric so that an account can be started for you.
+Usernames \u0026amp; Passwords are CASE SENSITIVE
 Signing in #Head over to : http://10.203.131.88:8888/ and log in with your personal details.
 Uploading your scripts #There are 2 ways of getting code and data on the server. For your code I recommend setting up GitHub and pulling your project (see below).
 OR
