@@ -22,6 +22,8 @@ Using Rstudio Server combined with git is a powerful way to streamline your work
 
 To get started, kindly email Eric so that an account can be started for you.
 
+<ins>***Usernames & Passwords are CASE SENSITIVE***</ins>
+
 ### Signing in
 
 Head over to : http://10.203.131.88:8888/ and log in with your personal details.
